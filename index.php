@@ -28,6 +28,10 @@
     <li>Updated 3 Jun 2011 - Dates valid up to July 2018</li>
     <li>Updated 11 Mar 2010 - Dates valid up to July 2012</li>
   </ul>
+
+  <h2>Source code</h2>
+  <p>The source code used to generate the calendar is <a href="https://github.com/kothar/uoy-week-calendar">available on Github</a>.</p>
+
   <h2>Step-by-step</h2>
   <p>
     <img src="AddMenu.png" />

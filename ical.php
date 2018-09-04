@@ -33,7 +33,27 @@
 	
 	"25 September 2017" => "Autumn",
 	"8 January 2018" => "Spring",
-	"16 April 2018" => "Summer"
+	"16 April 2018" => "Summer",
+	 
+	"24 September 2018" => "Autumn",
+	"7 January 2019" => "Spring",
+	"15 April 2019" => "Summer",
+	
+	"30 September 2019" => "Autumn",
+	"6 January 2020" => "Spring",
+	"13 April 2020" => "Summer",
+	
+	"28 September 2020" => "Autumn",
+	"11 January 2021" => "Spring",
+	"19 April 2021" => "Summer",
+	
+	"27 September 2021" => "Autumn",
+	"10 January 2022" => "Spring",
+	"18 April 2022" => "Summer",
+	
+	"26 September 2022" => "Autumn",
+	"9 January 2023" => "Spring",
+	"17 April 2023" => "Summer"
 	);
 	
   //header('Content-type: text/calendar;name="term-dates.ics"');
